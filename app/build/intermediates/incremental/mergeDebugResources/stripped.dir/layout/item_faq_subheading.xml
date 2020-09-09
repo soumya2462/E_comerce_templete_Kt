@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                       
+
+    
+
+                 
+                        
+                                                          
+
+                 
+                           
+                                                                                
+           
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/spacing_middle" android:tag="layout/item_faq_subheading_0" xmlns:tools="http://schemas.android.com/tools">
+
+        <TextView
+            android:id="@+id/tvSubCategory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/spacing_standard_new"
+            android:tag="binding_1"                 
+            android:textColor="@color/textColorSecondary"
+            android:textSize="@dimen/font_size_small"
+            tools:text="gvsdfgdf" />
+
+    </LinearLayout>
+         

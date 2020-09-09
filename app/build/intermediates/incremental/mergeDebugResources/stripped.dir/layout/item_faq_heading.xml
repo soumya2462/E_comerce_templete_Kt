@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+    
+
+                 
+                        
+                                                       
+
+                 
+                           
+                                                                                
+           
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingStart="@dimen/spacing_standard"
+        android:paddingTop="@dimen/spacing_standard"
+        android:paddingBottom="@dimen/spacing_standard" android:tag="layout/item_faq_heading_0">
+
+
+        <TextView
+            android:id="@+id/tvCategory"
+            style="@style/SidebarLabel.SidebarOption"
+            android:drawableEnd="@drawable/ic_keyboard_arrow_right_black"
+            android:foreground="@null"
+            android:padding="0dp"
+            android:tag="binding_1"               />
+
+    </LinearLayout>
+         

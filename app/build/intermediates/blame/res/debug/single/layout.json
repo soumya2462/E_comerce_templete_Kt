@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_filter_category.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_filter_category.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_filter_brand.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_filter_brand.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_review.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_review.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_wishlist.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_wishlist.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_product_detail.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_faq_heading.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_faq_heading.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_filter_discount.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_filter_discount.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_itemreview.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/fragment_itemreview.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_category_3.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_category_3.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_category_2.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_category_2.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_viewproductgrid.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_viewproductgrid.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_reward.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_reward.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_orderlist.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_orderlist.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_home_newest_product.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_home_newest_product.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_product.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_product.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_track.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_track.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_newest_product.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_newest_product.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_size.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_size.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_category.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_category.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_address_new.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_address_new.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_color.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_color.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_faq_subheading.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_faq_subheading.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_order.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_order.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_navigation_subcategory.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_navigation_subcategory.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_user_address.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_user_address.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_address.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_address.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_navigation_category.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_navigation_category.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_blog.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_blog.xml"
+    },
+    {
+        "merged": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_cart.xml",
+        "source": "/Volumes/DATA/soumya/download/WooCommerce-Android-App-E-commerce-Full-Mobile-App-kotlin-master/app/src/main/res/layout/item_cart.xml"
+    }
+]
